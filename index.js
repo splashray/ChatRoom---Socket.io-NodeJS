@@ -38,9 +38,7 @@ io.on('connection', socket =>{
     })
 
   })
-
-
-
+//format this aspect for current message when user leave
 
   //listen for chatMessage
   socket.on('chatMessage', msg => {

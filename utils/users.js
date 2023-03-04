@@ -1,3 +1,5 @@
+// real database will be imported
+//memory is used for now
 const users = []
 
 //Join user to chat
